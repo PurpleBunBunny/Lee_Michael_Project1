@@ -1,0 +1,9 @@
+C:\Users\Michael Lee\Desktop\Revature\Lee_Michael_Project01\PizzaProject1\PizzaProject1.Context\bin\Debug\netcoreapp2.2\PizzaProject1.Library.deps.json
+C:\Users\Michael Lee\Desktop\Revature\Lee_Michael_Project01\PizzaProject1\PizzaProject1.Context\bin\Debug\netcoreapp2.2\PizzaProject1.Library.dll
+C:\Users\Michael Lee\Desktop\Revature\Lee_Michael_Project01\PizzaProject1\PizzaProject1.Context\bin\Debug\netcoreapp2.2\PizzaProject1.Library.pdb
+C:\Users\Michael Lee\Desktop\Revature\Lee_Michael_Project01\PizzaProject1\PizzaProject1.Context\obj\Debug\netcoreapp2.2\PizzaProject1.Library.csprojAssemblyReference.cache
+C:\Users\Michael Lee\Desktop\Revature\Lee_Michael_Project01\PizzaProject1\PizzaProject1.Context\obj\Debug\netcoreapp2.2\PizzaProject1.Library.csproj.CoreCompileInputs.cache
+C:\Users\Michael Lee\Desktop\Revature\Lee_Michael_Project01\PizzaProject1\PizzaProject1.Context\obj\Debug\netcoreapp2.2\PizzaProject1.Library.AssemblyInfoInputs.cache
+C:\Users\Michael Lee\Desktop\Revature\Lee_Michael_Project01\PizzaProject1\PizzaProject1.Context\obj\Debug\netcoreapp2.2\PizzaProject1.Library.AssemblyInfo.cs
+C:\Users\Michael Lee\Desktop\Revature\Lee_Michael_Project01\PizzaProject1\PizzaProject1.Context\obj\Debug\netcoreapp2.2\PizzaProject1.Library.dll
+C:\Users\Michael Lee\Desktop\Revature\Lee_Michael_Project01\PizzaProject1\PizzaProject1.Context\obj\Debug\netcoreapp2.2\PizzaProject1.Library.pdb

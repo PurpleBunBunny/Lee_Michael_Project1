@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Michael Lee\\Desktop\\Revature\\Lee_Michael_Project01\\PizzaProject1\\PizzaProject1.Context\\PizzaProject1.Library.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Michael Lee\\Desktop\\Revature\\Lee_Michael_Project01\\PizzaProject1\\PizzaProject1.Context\\PizzaProject1.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michael Lee\\Desktop\\Revature\\Lee_Michael_Project01\\PizzaProject1\\PizzaProject1.Context\\PizzaProject1.Library.csproj",
+        "projectName": "PizzaProject1.Library",
+        "projectPath": "C:\\Users\\Michael Lee\\Desktop\\Revature\\Lee_Michael_Project01\\PizzaProject1\\PizzaProject1.Context\\PizzaProject1.Library.csproj",
+        "packagesPath": "C:\\Users\\Michael Lee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michael Lee\\Desktop\\Revature\\Lee_Michael_Project01\\PizzaProject1\\PizzaProject1.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Michael Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
